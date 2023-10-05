@@ -59,7 +59,7 @@ const AboutSection = () => {
         <Image src="/images/about-image.png" height={500} width={500} alt='about-image'/>
         <div className='mt-4 md:mt-0 text-left flex flex-col h-full '>
             <h2 className='text-4xl font-bold text-white mb-4 '>About Me</h2>
-            <p className='text-base lg:text-lg '>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus beatae impedit, repellendus perferendis nisi magni fugit quaerat suscipit magnam quas, autem praesentium aperiam sequi vel voluptatem ipsam explicabo natus ab?</p>
+            <p className='text-base lg:text-lg '>I'm a final-year B.Tech student in Computer Science with a strong passion for software development. Currently, I'm immersed in ReactJS and Next.js, working towards becoming a proficient MERN stack developer. I've completed projects using HTML, CSS, and JavaScript and actively contribute to open source projects, including Hacktoberfest 2023.</p>
             <div className="flex flex-row justify-start mt-8">
                 <TabButton selectTab={()=> handleTabChange("skills")} 
                     active = {tab === "skills"}>
