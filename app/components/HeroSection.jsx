@@ -27,7 +27,7 @@ const HeroSection = () => {
                     />
 
             </h1>
-            <p className='text-[#ADB7BE] sm:text-lg lg:text-xl mb-6 text-base'>Currently I am Working on React Frame works and aspiring to be MERN Stack Developer</p>
+            <p className='text-[#ADB7BE] sm:text-lg lg:text-xl mb-6 text-base'>Currently I am Working on JS and ReactJS Frame works and aspiring to be MERN Stack Developer</p>
                 <div className="">
                     <button className='px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 hover:bg-slate-300 text-white'>Hire me</button>
                     <Link href="https://drive.google.com/file/d/1AMG82B53hdd4j7jBr4j57hFYjj09G7Xx/view?usp=drive_link" alt="CV" target='_blank'><button className='px-1 py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 hover:bg-slate-800 text-white  mt-3'>
